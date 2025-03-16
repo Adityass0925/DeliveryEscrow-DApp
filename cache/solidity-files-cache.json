@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Aditya Singh\\OneDrive\\Desktop\\bidzy\\contracts\\delevieryEscrow.sol": {
+      "lastModificationDate": 1741782100432,
+      "contentHash": "9c449e6cda3857a037acc879ede98d85",
+      "sourceName": "contracts/delevieryEscrow.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "DeliveryEscrow"
+      ]
+    }
+  }
+}
